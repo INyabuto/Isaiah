@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "http://inyabuto.netlify.com/*"
+  to = "http://www.inyabuto.site/:splat"
+  status = 301
