@@ -28,8 +28,8 @@ weight = 7
   description = "Advanced"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "chart-line" #chart-line
+  icon_pack = "fas" #fas
   name = "Analytics"
   description = "100%"  
   
