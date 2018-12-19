@@ -41,15 +41,15 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "AfyaLyte"
+  name = "Analytics & Data Visualization"
   tag = "afyalyte"
 
 [[filter]]
-  name = "Hello Life"
-  tag = "hellolife"
+  name = "System Customisation & Maintenance"
+  tag = "etl"
 
 [[filter]]
-  name = "R Package"
+  name = "Developments"
   tag = "quotar"
 +++
 

@@ -50,7 +50,7 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
-url_custom = [{name = "Custom Link", url = "http://www.jkuat.ac.ke/kenyan-counties-leverage-technology-ahead-of-uhc-roll-out/"}]
+url_custom = [{name = "JKUAT site", url = "http://www.jkuat.ac.ke/kenyan-counties-leverage-technology-ahead-of-uhc-roll-out/"}]
 
 # Does the content use math formatting?
 math = true
@@ -65,6 +65,8 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
+
+
 
 
 

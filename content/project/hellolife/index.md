@@ -10,7 +10,7 @@ summary = "Capstone Project for the HIGDA 2017 Bootcamp"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["hellolife"]
+tags = ["afyalyte"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
