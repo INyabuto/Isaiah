@@ -53,7 +53,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Isaiah Nyabuto"
-  role = "Health Management Information Systems (HMIS) Consultant"
+  role = "Management Information Systems (HMIS) Consultant"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -65,17 +65,17 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "isaiahnyabuto@gmail.com"
   address = "WhiteField Plaza, School lane, Westlands, Nairobi, Kenya"
-  office_hours = """
-  Monday  07:00 to 15:00\\
-  Tuesday 08:00 to 16:00\\
-  Wednesday 08:00 to 16:00\\
-  Thursday 08:00 to 16:00\\
-  Otherwise email to book an appointment
-  """
-  phone = "+254 729 572 616"
+  #office_hours = """
+  #Monday  07:00 to 15:00\\
+  #Tuesday 08:00 to 16:00\\
+  #Wednesday 08:00 to 16:00\\
+  #Thursday 08:00 to 16:00\\
+  #Otherwise email to book an appointment
+  #"""
+  #phone = ""
   skype = "Isaiah Nyabuto"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  #telegram = ""
+  #keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""

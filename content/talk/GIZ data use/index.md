@@ -13,7 +13,7 @@ time_end = 2018-02-23T15:30:00
 authors = ["Arthur Heywood", "Isaiah Nyabuto"]
 
 # Abstract and optional shortened version.
-abstract = "Agenda; Day 1: Information cycle, Identify 10 key performance indicators from the AWP Identify key stakeholders in the county. Day 2 to Day 5:Define numerator and denominator for indicators, Check data quality for 10 indicators using DHIS2 (Validation Rules, max-min values, WHO App, etc.,Make information products: Pivot Tables, Data Visualizer, Maps, ScoreCards, league tables,Make dashboards for specific stakeholders, Dissemination of information products in DHIS2, Provide Feedback to stakeholders and Initiate discussions about data at local level"
+abstract = "Agenda;Day 1:Information cycle, Identify 10 key performance indicators from the AWP Identify key stakeholders in the county. Day 2 to Day 5:Define numerator and denominator for indicators, Check data quality for 10 indicators using DHIS2 (Validation Rules, max-min values, WHO App, etc.,Make information products: Pivot Tables, Data Visualizer, Maps, ScoreCards, league tables,Make dashboards for specific stakeholders, Dissemination of information products in DHIS2, Provide Feedback to stakeholders and Initiate discussions about data at local level"
 abstract_short = "Data Use Training in Kisumu County"
 
 # Name of event and optional event URL.
