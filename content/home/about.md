@@ -35,10 +35,14 @@ weight = 5
 
 # About
 
-I am a Management Information System (MIS) consultant at PSI. I support country teams in East Africa to manage the PSI MIS better and to engage with data for evidence. Previously, I was helping the GIZ Health Sector program data use project in Kenya where I was majorly involved at setting up a training database and co-facilitating sessions on scorecards. 
+Hello! My Name is Isaiah Nyabuto. I am an engineer, a juster, and a support specialist. 
 
-I am an advanced user of R and I got a background in health information and informatics. My mission is to democratize health information systems and amplify knowledge discovery at scale for public health evidence.
+I support PSIers across the east and west of africa to better manage the [PSI MIS](https://mis.psi.org/?lang=en) and to routinely engage with data for evidence. Previously, I was helping the [GIZ Health Sector Program (GIZ - HSP)](https://www.giz.de/en/worldwide/317.html) data use project in Kenya to set up a training database and co-facilitate scorecard development sessions in DHIS2. 
 
-I am not afraid to ask for help from other sources and not to try and solve problems which are far beyond my core skill sets. I believe that my global experience combined with a broad set of technical competencies have helped my clients to better achieve their goals often under challenging settings. 
+My mission is to democratize health information systems and amplify knowledge discovery for evidence at scale. I am not afraid to ask for help from other sources, and not to try and solve problems which are far beyond my core skill sets. 
+
+I believe that my global experience, combined with a broad set of technical competencies, are helping many PSIers to achieve their goals better and often in limited settings. 
+
+I am an advanced user of R, and I got a background in health information and informatics.
 
 

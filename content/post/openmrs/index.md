@@ -9,7 +9,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Isaiah Nyabuto"]
 
-tags = ["openmrs"]
+tags = ["EMR"]
 summary = "On 12-16 December 2017, Uwe Wahser and Isaiah Nyambuka attended the OpenMRS Implementers Conference in Malawi to assess whether OpenMRS holds promise for GIZ partner hospitals in Kenya."
 
 # Projects (optional).

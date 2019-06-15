@@ -1,10 +1,10 @@
 +++
-title = "Building Global Data Engagement One Workshop at a Time"
-date = 2018-07-09T00:00:00
+title = "Improving Data Quality through DHIS2 Mobile: Nigeria A360 to go live with Android Capture App"
+date = 2019-04-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Isaiah Nyabuto", "Molly Siwula"]
+authors = ["Isaiah Nyabuto", "Bram Piot"]
 
 # Publication type.
 # Legend:
@@ -15,15 +15,14 @@ authors = ["Isaiah Nyabuto", "Molly Siwula"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Global Business Services (GBS) Department Quarterly News letter*, PSI."
-publication_short = "In *GBS News letter*"
+publication = "In *West and Central Africa (WCA) Evidence Newsletter*, PSI."
+publication_short = "In *WCA Evidence Newsletter*"
 
 # Abstract and optional shortened version.
-abstract = "From the 14 – 18th of May 2018, The Women's Health Project (WHP) program teams from four Population Services International (PSI) countries were trained at the WHP Data to Action workshop in Tanzania on how to effectively use and engage with data in DHIS2. DHIS2 is a powerful, web-based and opensource platform that's used for data analysis and reporting for global health programs."
-abstract_short = "As the push for supplying data for evidence-based decision-making has grown, program managers are now struggling to face the higher demands for drawing insights from data. Much of the frustration is due to a limited capacity to engage with data and poor transparency on insights and action capabilities in DHIS2."
+abstract = "During a recent visit to Nigeria, PSI’s Evidence and GBS worked with the Adolescents 360 team to prepare for the implementation of DHIS2 as the project’s primary monitoring system. Up until now, the A360 project has relied on inefficient Excel-based tools to collect, compile and access routine monitoring data, leading to quality issues and low levels of data use. Team members were trained on the use of smartphones, DHIS2 forms and techniques to collect and manage data efficiently using the new DHIS2 Android Capture app. The new data collection process will be guided by detailed SOPs that outline the roles and responsibilities throughout the data flow process, ensuring that adequate quality assurance mechanisms and procedures are in place. Following a pilot phase, the team is expected to go live with DHIS2 on June 1st."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -38,11 +37,11 @@ projects = ["internal-project"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Data Use", "Data 2 Action Workshop"]
+tags = ["Data Quality","dhis2 App"]
 
 # Links (optional).
-url_pdf = "files/GBS Newsletter Q2-7-9.pdf"
-url_preprint = "files/GBS Newsletter Q2-7-9.pdf"
+url_pdf = "https://gallery.mailchimp.com/0ed0538c2e0a5949b128ead9a/files/e1efa5cb-2410-4713-a7ee-289d44ebe978/DHIS2_Abuja_STTA_brief.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -65,10 +64,10 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "WHP Data 2 Action Workshop Outputs"
+  caption = "A young mother with her child waits at the clinic, surrounded by client records"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Smart"
 +++
 
