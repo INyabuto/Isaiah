@@ -24,19 +24,18 @@ weight = 7
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "Scripting with R"
   description = "Advanced"
   
 [[feature]]
   icon = "chart-line" #chart-line
   icon_pack = "fas" #fas
-  name = "Analytics"
-  description = "100%"  
+  name = "Analytics and Dashboard Development"
+  description = "Exellent!"  
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "databases"
-  description = "80%"
-
+  name = "Databases and SQL views"
+  description = "Super"
 +++

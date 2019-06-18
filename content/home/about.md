@@ -37,11 +37,11 @@ weight = 5
 
 Hello! My Name is Isaiah Nyabuto. I am an engineer, a juster, and a support specialist. 
 
-I support PSIers across the east and west of africa to better manage the [PSI MIS](https://mis.psi.org/?lang=en) and to routinely engage with data for evidence. Previously, I was helping the [GIZ Health Sector Program (GIZ - HSP)](https://www.giz.de/en/worldwide/317.html) data use project in Kenya to set up a training database and co-facilitate scorecard development sessions in DHIS2. 
+I support PSIers across East and West of Africa to better manage the [PSI MIS](https://mis.psi.org/?lang=en) and to routinely engage with data for evidence. Previously, I was helping the [GIZ Health Sector Program (GIZ - HSP)](https://www.giz.de/en/worldwide/317.html) data use project in Kenya to set up a training database and to co-facilitate sessions on scorecard development in DHIS2. 
 
-My mission is to democratize health information systems and amplify knowledge discovery for evidence at scale. I am not afraid to ask for help from other sources, and not to try and solve problems which are far beyond my core skill sets. 
+My mission is to democratize health information systems and amplify knowledge discovery at scale. I am not afraid to ask for help from other sources, and not to try and solve problems which are far beyond my core skill sets. 
 
-I believe that my global experience, combined with a broad set of technical competencies, are helping many PSIers to achieve their goals better and often in limited settings. 
+I believe that my global experience, combined with a broad set of technical competencies, are helping many PSIers to achieve their goals better and often in challenging settings. 
 
 I am an advanced user of R, and I got a background in health information and informatics.
 
