@@ -41,15 +41,15 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Analytics & Data Visualization"
+  name = "Analytics & Dashboard Developments"
   tag = "afyalyte"
 
 [[filter]]
-  name = "System Customisation & Maintenance"
+  name = "System Configuration & Maintenance"
   tag = "etl"
 
 [[filter]]
-  name = "Developments"
+  name = "Software Development"
   tag = "quotar"
 +++
 

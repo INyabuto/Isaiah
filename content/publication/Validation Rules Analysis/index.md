@@ -1,10 +1,10 @@
 +++
-title = "Improving Data Quality through DHIS2 Mobile: Nigeria A360 to go live with Android Capture App"
-date = 2019-04-09T00:00:00
+title = "Validation Rules Analysis Cheat Sheet - Part 2"
+date = 2019-06-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Isaiah Nyabuto", "Bram Piot"]
+authors = ["Isaiah Nyabuto"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,15 @@ authors = ["Isaiah Nyabuto", "Bram Piot"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "*West and Central Africa (WCA) Evidence Newsletter*, *PSI.*"
-publication_short = "In *WCA Evidence Newsletter*"
+publication = "*PSI Help-desk*"
+publication_short = "*PSI Help-desk*"
 
 # Abstract and optional shortened version.
-abstract = "During a recent visit to Nigeria, PSI’s Evidence and GBS worked with the Adolescents 360 team to prepare for the implementation of DHIS2 as the project’s primary monitoring system. Up until now, the A360 project has relied on inefficient Excel-based tools to collect, compile and access routine monitoring data, leading to quality issues and low levels of data use. Team members were trained on the use of smartphones, DHIS2 forms and techniques to collect and manage data efficiently using the new DHIS2 Android Capture app. The new data collection process will be guided by detailed SOPs that outline the roles and responsibilities throughout the data flow process, ensuring that adequate quality assurance mechanisms and procedures are in place. Following a pilot phase, the team is expected to go live with DHIS2 on June 1st."
+abstract = "Validation rule analysis tests validation rules against the data registered in the system. Validation violations are reported when the condition defined in the validation rule expression is not met, which means when the condition is false. For example, a validation rule could assert that *Suspected malaria cases tested* >= *Confirmed malaria cases* or that *Injectable 1 month quantities* = *Injectable 1 month clients* and in case the validation rule is not met, an Instruction is reported to the user."
+abstract_short =  ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -37,17 +38,17 @@ projects = ["internal-project"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Data Quality","dhis2 App"]
+tags = ["Data Quality", "Cheat Sheet", "Validation Rules"]
 
 # Links (optional).
-url_pdf = "https://gallery.mailchimp.com/0ed0538c2e0a5949b128ead9a/files/e1efa5cb-2410-4713-a7ee-289d44ebe978/DHIS2_Abuja_STTA_brief.pdf"
-url_preprint = ""
+url_pdf = "files/Validation rules analysis Cheat sheet B (1).pdf"
+url_preprint = "files/Validation rules analysis Cheat sheet B (1).pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/14048382407/original/Validation%20rules%20analysis%20Cheat%20sheet%20B.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJ2JSYZ7O3I4JO6DA%2F20190706%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190706T071658Z&X-Amz-Expires=300&X-Amz-Signature=e5da69e7c1c5ab46265bd7a6582d0de969f717265f7d64882b6f8c10de9fe80a&X-Amz-SignedHeaders=Host&response-content-type=application%2Fpdf"
 url_source = ""
 
 # Custom links (optional).
@@ -64,10 +65,10 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "A young mother with her child waits at the clinic, surrounded by client records"
+  caption = "WHP Data 2 Action Workshop Outputs"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = ""
 +++
 

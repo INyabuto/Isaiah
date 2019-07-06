@@ -1,10 +1,10 @@
 +++
-title = "Improving Data Quality through DHIS2 Mobile: Nigeria A360 to go live with Android Capture App"
-date = 2019-04-09T00:00:00
+title = "A360 Nigeria Historical Data Import"
+date = 2019-06-09T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Isaiah Nyabuto", "Bram Piot"]
+authors = ["Isaiah Nyabuto"]
 
 # Publication type.
 # Legend:
@@ -18,14 +18,15 @@ authors = ["Isaiah Nyabuto", "Bram Piot"]
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "*West and Central Africa (WCA) Evidence Newsletter*, *PSI.*"
-publication_short = "In *WCA Evidence Newsletter*"
+publication = ""
+publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "During a recent visit to Nigeria, PSI’s Evidence and GBS worked with the Adolescents 360 team to prepare for the implementation of DHIS2 as the project’s primary monitoring system. Up until now, the A360 project has relied on inefficient Excel-based tools to collect, compile and access routine monitoring data, leading to quality issues and low levels of data use. Team members were trained on the use of smartphones, DHIS2 forms and techniques to collect and manage data efficiently using the new DHIS2 Android Capture app. The new data collection process will be guided by detailed SOPs that outline the roles and responsibilities throughout the data flow process, ensuring that adequate quality assurance mechanisms and procedures are in place. Following a pilot phase, the team is expected to go live with DHIS2 on June 1st."
+abstract = ""
+abstract_short =  ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -37,11 +38,11 @@ projects = ["internal-project"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Data Quality","dhis2 App"]
+tags = ["Data Import", "A360"]
 
 # Links (optional).
-url_pdf = "https://gallery.mailchimp.com/0ed0538c2e0a5949b128ead9a/files/e1efa5cb-2410-4713-a7ee-289d44ebe978/DHIS2_Abuja_STTA_brief.pdf"
-url_preprint = ""
+url_pdf = "files/NG_A360_Data_Import.pdf"
+url_preprint = "files/NG_A360_Data_Import.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -64,10 +65,10 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "A young mother with her child waits at the clinic, surrounded by client records"
+  caption = "WHP Data 2 Action Workshop Outputs"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = ""
 +++
 
