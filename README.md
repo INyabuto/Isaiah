@@ -1,3 +1,3 @@
 # inyabuto-site
 
-A personal webisite for Isaiah Nyabuto
+A personal website for Isaiah Nyabuto
