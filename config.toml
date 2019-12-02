@@ -328,10 +328,6 @@ enableGitInfo = false
   name = "Talks and Workshops"
   url = "#talks"
   weight = 5
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
