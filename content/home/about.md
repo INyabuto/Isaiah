@@ -34,7 +34,7 @@ weight = 5
 +++
 
 
-Hello! My name is Isaiah Nyabuto. I am a DHIS2 Specialist, a Data Scientist, and an advocate. 
+Hello! My name is Isaiah Nyabuto. I am a DHIS2 Specialist, a Data Scientist, and an Advocate. 
 
 I support PSIers across East and West of Africa to better manage the [PSI MIS](https://mis.psi.org/?lang=en) and to routinely engage with data for evidence. Previously, I was helping the [GIZ Health Sector Program (GIZ - HSP)](https://www.giz.de/en/worldwide/317.html) data use project in Kenya to set up a training database and to co-facilitate sessions on scorecard development in DHIS2. 
 
