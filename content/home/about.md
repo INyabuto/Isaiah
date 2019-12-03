@@ -32,6 +32,7 @@ weight = 5
   year = 2015
  
 +++
+
 I am a DHIS2 Specialist at [PSI](https://mis.psi.org/?lang=en), where I support and maintain complex multi-country projects in DHIS2. I also develop the capacity of country system admins and DHIS2 officers on system configuration, maintenance, and general troubleshooting.
 
 Previously I was supporting countries on the East and West of Africa to better manage the PSI-MIS and to routinely engage with data for evidence. I also helped the [GIZ Health Sector Program (GIZ - HSP)](https://www.giz.de/en/worldwide/317.html) data use project in Kenya to set up a training database and co-facilitate sessions on scorecard development in DHIS2. 
